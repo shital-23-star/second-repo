@@ -1,1 +1,21 @@
+<<<<<<< Updated upstream
+=======
+story 103
+a=20 
+b=30
+x= a+b
+
+this is f2 file
+>>>>>>> Stashed changes
+this is me
 this is second file
+
+story 103
+int a=12;
+int b=13;
+
+int m= 5;
+
+
+int m=13;
+
