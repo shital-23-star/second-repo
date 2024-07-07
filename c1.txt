@@ -1,2 +1,6 @@
+
+int= 10;
+
 string name = 'hello';
+
 
