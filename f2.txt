@@ -13,4 +13,4 @@ this is second file
 story 103
 int a=12;
 int b=13;
-
+int m=13;
